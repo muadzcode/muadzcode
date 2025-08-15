@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a game building
 - 📫 reach me at discord: muadz0243
 - 😄 Pronouns: Muadz
-- ⚡ Fun fact: Im a high functioning autistic
+- ⚡ Fun fact: I had ASD
 
 <!---
 muadzcode/muadzcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
