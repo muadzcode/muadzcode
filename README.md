@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @muadzcode
-- 👀 I’m interested in skateboarding & make game
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on a game building
-- 📫 reach me at discord: muadz0243
-- 😄 Pronouns: Muadz
-- ⚡ Fun fact: I had ASD
+# 👋 Hi, I'm @muadzcode
 
-<!---
-muadzcode/muadzcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack developer, Linux power-user, and security enthusiast building robust web applications, game systems, and custom tools.
+
+---
+
+### 🚀 What I Do
+- 🛠️ **Languages & Tech:** Python, C, JavaScript/TypeScript, PHP, FastAPI, Next.js, Tailwind CSS, Godot
+- 🐧 **Systems & Infra:** Ubuntu Linux administration, systemd, Docker, bash scripting, VPS management
+- 🛡️ **Cybersecurity & CTFs:** Active participant in CTF challenges and web security labs (OverTheWire, HTB, Nmap)
+- 🎮 **Projects & Experiments:** Building full-stack server management tools, web apps, and game design engines
+
+---
+
+### 📫 Connect & Reach Me
+- **Discord:** `muadz0243`
+- **instagram** `along_muaxz`
+
+---
+
+*⚡ "Solving complex problems with simple, efficient code."*
